@@ -1,4 +1,4 @@
 # Cherry
 PHP MVC Framework 
 ###### Installation
-`<addr>` composer require sajidh/cherry.
+`<composer require sajidh/cherry.>` 
