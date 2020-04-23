@@ -1,2 +1,2 @@
 # Cherry
-PHP Framework 
+PHP MVC Framework 
