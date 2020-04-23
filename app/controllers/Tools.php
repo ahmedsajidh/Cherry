@@ -5,20 +5,20 @@
  */
 class Tools extends Controller{
 
-  public funcion __construct($controller, $action){
+  public function __construct($controller, $action){
     parent::__construct($controller, $action);
     $this->view->setLayout('default');
   }
-  public indexAction(){
+  public function indexAction(){
     $this->view->render('tools/index');
   }
-  public firstAction(){
+  public function firstAction(){
     $this->view->render('tools/first');
   }
-  public secondAction(){
+  public function secondAction(){
     $this->view->render('tools/second');
   }
-  public thirdAction(){
+  public function thirdAction(){
     $this->view->render('tools/third');
   }
 }
