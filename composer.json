@@ -1,0 +1,16 @@
+{
+    "name": "sajidh/cherry",
+    "type": "cms",
+    "description": "cherry Simple PHP Framework",
+    "keywords": ["Framework","php"],
+     "homepage": "https://cherry.sajidh.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sajidh",
+            "email": "ahmedsajidh@gmail.com",
+            "homepage": "https://sajidh.com",
+            "role": "Developer"
+        }
+    ]
+}
