@@ -1,3 +1,3 @@
 # Cherry
- MVC Framework 
+PHP MVC Framework 
 #### Installation
